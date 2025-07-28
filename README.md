@@ -7,4 +7,6 @@ Here you can find a few simple ML projects.
 3. **Dog vision (image multi-class classification).**
    The goal is to create a model to classify the breed of the dog.
 4. **Intro to audio processing.**
-   Terminology and basics of audio processing (spectogram, mel-spectogram, librosa). 
+   Terminology and basics of audio processing (spectogram, mel-spectogram, librosa).
+5. **Intro emotion class.**
+   Simple project with balanced data. Audio processing, visualization, creating a simple ML model. 
