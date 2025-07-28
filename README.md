@@ -1,6 +1,6 @@
 Here you can find a few simple ML projects.
 
-1. Heart disease (binary classification).
+1. **Heart disease (binary classification).**
    The goal is to predict whether a particular patient has heart disease or not.
 2. Bulldozer price (regression).
    The goal is to predict bulldozers price in the future based on the data in the past.
