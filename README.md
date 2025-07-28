@@ -1,4 +1,4 @@
-###Here you can find a few simple ML projects.
+Here you can find a few simple ML projects.
 
 1. **Heart disease (binary classification).**
    The goal is to predict whether a particular patient has heart disease or not.
